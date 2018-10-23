@@ -228,7 +228,5 @@ Como é feita a sincronização do App AnDesDash com o AndesERP:
    :width: 134 px
 
 .. |IMG28| image:: static/sync_AnDesDash.png
-   :height: 240 px
-   :width: 134 px
-        
-      
+   :height: 321 px
+   :width: 180 px      
