@@ -105,6 +105,14 @@ Podemos gerar várias visões conforme a demanda do cliente, mas por padrão vem
 |\ |IMG24|\ |\ |IMG25|\ |\ |IMG26|\ |\ |IMG27|\ |
 +-----------+-----------+-----------+-----------+
 
+.. _h3245336071222a4a172b561043667f:
+
+Como é feita a sincronização do App AnDesDash com o AndesERP:
+*************************************************************
+
++-----------+
+|\ |IMG28|\ |
++-----------+
 
 .. bottom of content
 
@@ -218,3 +226,9 @@ Podemos gerar várias visões conforme a demanda do cliente, mas por padrão vem
 .. |IMG27| image:: static/AndesDash_Cliente_26.png
    :height: 240 px
    :width: 134 px
+
+.. |IMG28| image:: static/sync_AnDesDash.png
+   :height: 240 px
+   :width: 134 px
+        
+      
